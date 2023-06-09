@@ -1,0 +1,70 @@
+.text-center{
+	text-align: center;
+}
+
+.ab_bank_color{
+	color:#006400 !important;
+}
+
+.red-color{
+	color: #ff0000;
+}
+
+.black-color{
+	color: #000000;
+}
+
+.white-color{
+	color: #ffffff;
+}
+
+.dashboard_color{
+	background-color:#db4848 !important;
+}
+.dashboard_text{
+	color: #fff !important;
+}
+
+.link_color{
+	color:#006400 !important;
+}
+
+.ab_bank_modal_background_color{
+	background-color: #006400;
+}
+
+.custom-button{
+	background-color: #006400;
+	border-color: #006400; 
+	padding: 5px;
+}
+
+.float-right{
+	float: right;
+}
+
+.float-left{
+	float: left;
+}
+
+.mt-10{
+	margin-top: 10px;
+}
+
+
+.mb-10{
+	margin-bottom: 10px;
+}
+
+.closeAlert{
+	opacity: 1 !important; 
+	color: #ffffff !important;
+}
+
+
+.school_logo_in_edit_mode > img{
+	width: 100px;
+    /*border: solid 2px #ddd;
+    border-radius: 5%;*/
+    margin-top: 10px;
+}
